@@ -5,4 +5,6 @@ A client by the name of Dana was interested in creating a webpage with a dynamic
 To perform a filter search on the table, the user would need to access the 
 ## Image 1 
 ![FilterExample.PNG](https://github.com/tommy-chin/UFOs/blob/main/static/images/FilterExample.PNG)
+## Image 2
+![FilteredSearch.PNG](https://github.com/tommy-chin/UFOs/blob/main/static/images/FilteredSearch.PNG)
 ## Summary
